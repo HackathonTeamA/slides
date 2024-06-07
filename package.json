@@ -1,0 +1,13 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "repository": "https://github.com/HackathonTeamA/slides",
+  "license": "MIT",
+  "scripts": {
+    "marp": "marp",
+    "preview": "marp src/md/index.md --preview"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}
