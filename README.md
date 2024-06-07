@@ -9,4 +9,4 @@
 
 ## Github Pages
 
-TODO
+https://hackathonteama.github.io/slides/
