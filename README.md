@@ -7,6 +7,12 @@
 3. src/md/index.md を編集する
 4. yarn preview する
 
+## 詳しい使い方
+
+[公式ドキュメント](https://marpit.marp.app/)
+
+[Zennの記事](https://zenn.dev/cota_hu/books/marp-beginner-advanced)
+
 ## Github Pages
 
 https://hackathonteama.github.io/slides/
