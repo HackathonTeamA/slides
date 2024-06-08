@@ -1,14 +1,24 @@
 ---
 marp: true
 ---
+# ハッカソン TeamA 発表
 
-# PersuadeMate
+### Member
 
+![width:64px](https://github.com/koko-u.png) koko_u
+![width:64px](https://github.com/aym-sekiguchi.png) aym-sekiguchi
+![width:64px](https://github.com/LalaportK.png) LalaportK
+
+---
+
+# 作成したアプリケーション
+
+## PersuadeMate
 プレゼンテーションを補助する便利ツール
 
 ---
 
-## 特徴
+## アプリケーションの特徴
 
 * 日常の「お誘い」が苦手な人に役に立つ小さなツール
 * 勧誘相手に応じて適切なプレゼンテーションを生成する
@@ -18,9 +28,13 @@ marp: true
 
 # デモ
 
+○○さんによる素晴しいデモ
+
 ---
 
 # 所感
+
+ハッカソンに参加してみて〜
 
 ---
 
@@ -36,9 +50,34 @@ Excepteur cupidatat cillum ex minim commodo pariatur velit exercitation sit nisi
 
 ---
 
-## こざき
+## こざき (1/3)
 
-Adipisicing est esse voluptate magna. Amet qui amet excepteur aliqua et do ullamco. Consequat commodo amet adipisicing velit adipisicing anim consequat id velit ullamco veniam. Exercitation commodo laborum cupidatat excepteur veniam. Fugiat aliquip sit do elit velit incididunt cupidatat quis deserunt velit.
+### 担当したこと
+
+- バックエンドの実装
+- チームリーダーとしての何か
+
+---
+
+## こざき (2/3)
+
+### 技術的なポイント
+
+- バックエンドを C# (ASP.NET Core Web API) で実装
+- OpenAI との通信には既に先人が実装したライブラリがあり、それをそのまま使用
+- ASP.NET Core に標準で備わっている DI を利用することで
+  テスト時にはダミーの実装に差し替えてフロントエンドの実装ができるように工夫した
+
+---
+
+## こざき (3/3)
+
+### チーム運営所感
+
+- 開発のモチベーションの維持が難しい。
+  仕事なら納期もあるし、後工程の開発もあるしで否が応にも開発するしかないが。
+- 縦割り(Frontend, Backend, Infra)の役割分担はよくない。
+  機能ごとに分担できた方がより「楽しみ」があった
 
 ---
 
@@ -48,13 +87,20 @@ Adipisicing est esse voluptate magna. Amet qui amet excepteur aliqua et do ullam
 
 ## 良かった点
 
-Ullamco laboris sunt excepteur reprehenderit amet. Eu tempor proident ea pariatur elit enim excepteur incididunt deserunt aliqua qui. Mollit sint adipisicing ut occaecat amet reprehenderit duis consequat ut nostrud in. Incididunt aliqua veniam duis sunt dolor sint. Eu et culpa cupidatat enim sint velit aute proident sunt exercitation duis.
+- これまで OpenAI を遠巻きに眺めているだけだったが、実際に触ってみることができた。
+- ...
+- ...
+- ...
+- ...
 
 ---
 
 ## 後悔の残る点
 
-Dolor proident pariatur irure sint sit magna pariatur. Incididunt reprehenderit reprehenderit ut excepteur magna anim voluptate id ipsum ad. Sit ut proident ex quis tempor sint. Mollit in proident fugiat ut sit qui minim ea elit voluptate excepteur cillum cillum velit. Cillum tempor duis incididunt excepteur qui in. Esse mollit quis amet irure aliquip occaecat ipsum officia qui magna incididunt ipsum in. Voluptate incididunt deserunt excepteur velit deserunt amet esse ex.
+- もっと github の機能(例えば、Projects)などを活用しても良かったかもしれない。
+- ...
+- ...
+- ...
 
 ---
 
