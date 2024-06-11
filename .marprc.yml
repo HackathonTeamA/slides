@@ -1,1 +1,3 @@
-theme: gaia
+theme: "base"
+paginate: true
+themeSet: ./styles/*.css

@@ -18,17 +18,17 @@ marp: true
 
 ---
 
-## アプリケーションの特徴
+# アプリケーションの特徴
 
-* 日常の「お誘い」が苦手な人に役に立つ小さなツール
-* 勧誘相手に応じて適切なプレゼンテーションを生成する
-* 実際に勧誘する前に、AIによって誘い文句を評価できる
+* 日常生活で「誘い文句の案出」が苦手な人に役に立つツール
+* 誘う相手に応じていい感じの誘い文句を生成してくれます
+* 生成された誘い文句を、AIが相手に成り代わって評価してくれます
 
 ---
 
 # デモ
 
-○○さんによる素晴しいデモ
+○○さんによる素晴しいデモをご堪能ください。
 
 ---
 
@@ -50,7 +50,7 @@ Excepteur cupidatat cillum ex minim commodo pariatur velit exercitation sit nisi
 
 ---
 
-## こざき (1/3)
+## ![width:48px](https://github.com/koko-u.png) こざき (1/3)
 
 ### 担当したこと
 
@@ -59,18 +59,18 @@ Excepteur cupidatat cillum ex minim commodo pariatur velit exercitation sit nisi
 
 ---
 
-## こざき (2/3)
+## ![width:48px](https://github.com/koko-u.png) こざき (2/3)
 
 ### 技術的なポイント
 
-- バックエンドを C# (ASP.NET Core Web API) で実装
-- OpenAI との通信には既に先人が実装したライブラリがあり、それをそのまま使用
-- ASP.NET Core に標準で備わっている DI を利用することで
-  テスト時にはダミーの実装に差し替えてフロントエンドの実装ができるように工夫した
+- ASP.NET Core Web API で実装。テンプレートで楽ちん
+- Dependency Injection でダミーやGPTのモデルを切り替え
+
+![width:600px](../images/backend.png)
 
 ---
 
-## こざき (3/3)
+## ![width:48px](https://github.com/koko-u.png) こざき (3/3)
 
 ### チーム運営所感
 
@@ -87,7 +87,7 @@ Excepteur cupidatat cillum ex minim commodo pariatur velit exercitation sit nisi
 
 ## 良かった点
 
-- これまで OpenAI を遠巻きに眺めているだけだったが、実際に触ってみることができた。
+- ![width:32px](https://github.com/koko-u.png) これまで OpenAI を遠巻きに眺めているだけだったが、実際に触ってみることができた。
 - ...
 - ...
 - ...
@@ -97,7 +97,7 @@ Excepteur cupidatat cillum ex minim commodo pariatur velit exercitation sit nisi
 
 ## 後悔の残る点
 
-- もっと github の機能(例えば、Projects)などを活用しても良かったかもしれない。
+- ![width:32px](https://github.com/koko-u.png) もっと github の機能(例えば、Projects)などを活用しても良かったかもしれない。
 - ...
 - ...
 - ...
@@ -106,4 +106,4 @@ Excepteur cupidatat cillum ex minim commodo pariatur velit exercitation sit nisi
 
 # 以上
 
-ハッカソンの企画・運営ありがとうございました。
+ハッカソンの企画・運営ありがとうございました。🙇

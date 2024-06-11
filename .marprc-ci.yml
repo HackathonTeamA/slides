@@ -1,6 +1,8 @@
+theme: "base"
+paginate: true
+themeSet: ./styles/*.css
 lang: ja-JP
 allowLocalFiles: true
-theme: gaia
 inputDir: ./src/md
 output: ./output
 pdf: false

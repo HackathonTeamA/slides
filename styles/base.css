@@ -1,0 +1,12 @@
+/* @theme base */
+@import "gaia";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=RocknRoll+One&display=swap');
+
+section {
+    font-family: "Noto Serif JP", Arial, Helvetica, sans-serif;
+}
+
+section h1 {
+    font-family: "RocknRoll One", Arial, Helvetica, sans-serif;
+}
