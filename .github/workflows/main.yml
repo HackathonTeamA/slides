@@ -17,6 +17,11 @@ jobs:
           config-file: ./.marprc-ci.yml
           generate-html: true
 
+      - name: Copy images
+        shell: bash
+        run: |
+          cp -a ./src/md/images ./output/
+
       - name: deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
