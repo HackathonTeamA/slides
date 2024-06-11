@@ -66,7 +66,7 @@ Excepteur cupidatat cillum ex minim commodo pariatur velit exercitation sit nisi
 - ASP.NET Core Web API で実装。テンプレートで楽ちん
 - Dependency Injection でダミーやGPTのモデルを切り替え
 
-![width:600px](../images/backend.png)
+![width:600px](./images/backend.png)
 
 ---
 
