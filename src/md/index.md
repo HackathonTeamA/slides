@@ -30,6 +30,8 @@ marp: true
 
 ○○さんによる素晴しいデモをご堪能ください。
 
+[PersuadeMate](https://persuademate-frontend-ovkyr72pqq-an.a.run.app/)
+
 ---
 
 # 所感
