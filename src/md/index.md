@@ -1,6 +1,7 @@
 ---
 marp: true
 ---
+
 # ハッカソン TeamA 発表
 
 ### Member
@@ -14,21 +15,22 @@ marp: true
 # 作成したアプリケーション
 
 ## PersuadeMate
+
 プレゼンテーションを補助する便利ツール
 
 ---
 
 # アプリケーションの特徴
 
-* 日常生活で「誘い文句の案出」が苦手な人に役に立つツール
-* 誘う相手に応じていい感じの誘い文句を生成してくれます
-* 生成された誘い文句を、AIが相手に成り代わって評価してくれます
+- 日常生活で「誘い文句の案出」が苦手な人に役に立つツール
+- 誘う相手に応じていい感じの誘い文句を生成してくれます
+- 生成された誘い文句を、AI が相手に成り代わって評価してくれます
 
 ---
 
 # デモ
 
-○○さんによる素晴しいデモをご堪能ください。
+○○ さんによる素晴しいデモをご堪能ください。
 
 [PersuadeMate](https://persuademate-frontend-ovkyr72pqq-an.a.run.app/)
 
@@ -40,9 +42,30 @@ marp: true
 
 ---
 
-## せきぐち
+## ![width:48px](https://github.com/aym-sekiguchi.png) せきぐち (1/3)
 
-Eiusmod sit Lorem ad proident sit minim culpa velit cillum quis culpa nostrud magna eu. Do qui reprehenderit ea ipsum anim elit ut mollit reprehenderit laborum dolore. Nisi do non reprehenderit non irure laboris et magna.
+### 担当したこと
+
+- フロントエンドの実装
+
+---
+
+## ![width:48px](https://github.com/aym-sekiguchi.png) せきぐち (2/3)
+
+### 技術的なポイント
+
+- Next.js を使用して SPA を実現
+- 細々した工夫(form のバリデーション、ローディング、GOD のアニメーション)
+
+---
+
+## ![width:48px](https://github.com/aym-sekiguchi.png) せきぐち (3/3)
+
+### フロントエンドを担当して
+
+- 思いつきで実装した GOD だが採用されてしまった
+- やりたいことが次々出てきて重かった
+- でも楽しい(GOD 動かしたり)
 
 ---
 
@@ -66,7 +89,7 @@ Excepteur cupidatat cillum ex minim commodo pariatur velit exercitation sit nisi
 ### 技術的なポイント
 
 - ASP.NET Core Web API で実装。テンプレートで楽ちん
-- Dependency Injection でダミーやGPTのモデルを切り替え
+- Dependency Injection でダミーや GPT のモデルを切り替え
 
 ![width:600px](./images/backend.png)
 
