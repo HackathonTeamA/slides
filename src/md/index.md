@@ -69,9 +69,34 @@ marp: true
 
 ---
 
-## ななみん
+## ![width:48px](https://github.com/LalaportK.png) ななみん (1/3)
 
-Excepteur cupidatat cillum ex minim commodo pariatur velit exercitation sit nisi reprehenderit. Sunt amet eu ex exercitation laboris qui commodo sint voluptate excepteur amet. Nisi ullamco commodo amet mollit fugiat.
+### 担当したこと
+
+- インフラ構築
+
+---
+
+## ![width:48px](https://github.com/LalaportK.png) ななみん (2/3)
+
+### 技術的なポイント
+
+- Google Cloud の Cloud Build を使った、main ブランチへのプッシュをトリガとしたデプロイ
+
+（ここに画像をいれる）
+
+---
+
+## ![width:48px](https://github.com/LalaportK.png) ななみん (3/3)
+
+### インフラを担当して
+
+- なれない技術 (Next.js と ASP Core) のデプロイ環境の構築に手間取った
+- ビルド失敗も含めてトライアンドエラー多数
+
+（ここに画像をいれる）
+
+---
 
 ---
 
@@ -113,8 +138,7 @@ Excepteur cupidatat cillum ex minim commodo pariatur velit exercitation sit nisi
 ## 良かった点
 
 - ![width:32px](https://github.com/koko-u.png) これまで OpenAI を遠巻きに眺めているだけだったが、実際に触ってみることができた。
-- ...
-- ...
+- ![width:32px](https://github.com/LaLaportK.png) 久しぶりにチーム開発できてよかった。
 - ...
 - ...
 
@@ -123,7 +147,7 @@ Excepteur cupidatat cillum ex minim commodo pariatur velit exercitation sit nisi
 ## 後悔の残る点
 
 - ![width:32px](https://github.com/koko-u.png) もっと github の機能(例えば、Projects)などを活用しても良かったかもしれない。
-- ...
+- ![width:32px](https://github.com/LaLaportK.png) 自分だけ負担が少なかったのでヘルプに入れればよかった。
 - ...
 - ...
 
