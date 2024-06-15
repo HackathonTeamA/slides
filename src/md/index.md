@@ -30,7 +30,7 @@ marp: true
 
 # デモ
 
-○○ さんによる素晴しいデモをご堪能ください。
+せきぐちさんによる素晴しいデモをご堪能ください。
 
 [PersuadeMate](https://persuademate-frontend-ovkyr72pqq-an.a.run.app/)
 
