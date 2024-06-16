@@ -22,9 +22,9 @@ marp: true
 
 # アプリケーションの特徴
 
-* 日常生活で「誘い文句の案出」が苦手な人に役に立つツール
-* 誘う相手に応じていい感じの誘い文句を生成してくれます
-* 生成された誘い文句を、AI が相手に成り代わって評価してくれます
+- 日常生活で「誘い文句の案出」が苦手な人に役に立つツール
+- 誘う相手に応じていい感じの誘い文句を生成してくれます
+- 生成された誘い文句を、AI が相手に成り代わって評価してくれます
 
 ---
 
@@ -137,8 +137,7 @@ marp: true
 
 - ![width:32px](https://github.com/koko-u.png) これまで OpenAI を遠巻きに眺めているだけだったが、実際に触ってみることができた。
 - ![width:32px](https://github.com/LaLaportK.png) 久しぶりにチーム開発できてよかった。
-- ...
-- ...
+- ![width:32px](https://github.com/aym-sekiguchi.png) 役割分担をしてのチーム開発が個人的にはじめてだったので良い経験になった。
 
 ---
 
@@ -146,8 +145,7 @@ marp: true
 
 - ![width:32px](https://github.com/koko-u.png) もっと github の機能(例えば、Projects)などを活用しても良かったかもしれない。
 - ![width:32px](https://github.com/LaLaportK.png) 自分だけ負担が少なかったのでヘルプに入れればよかった。
-- ...
-- ...
+- ![width:32px](https://github.com/aym-sekiguchi.png) もっといろんな機能入れたかった。
 
 ---
 
