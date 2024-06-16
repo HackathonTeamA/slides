@@ -83,7 +83,7 @@ marp: true
 
 - Google Cloud の Cloud Build を使った、main ブランチへのプッシュをトリガとしたデプロイ
 
-（ここに画像をいれる）
+![width:600px](./images/architecture.png)
 
 ---
 
@@ -94,7 +94,7 @@ marp: true
 - なれない技術 (Next.js と ASP Core) のデプロイ環境の構築に手間取った
 - ビルド失敗も含めてトライアンドエラー多数
 
-（ここに画像をいれる）
+![width:600px](./images/build.png)
 
 ---
 
